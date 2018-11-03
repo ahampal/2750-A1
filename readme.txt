@@ -2,7 +2,7 @@ Name:
 Amit Hampal
 
 Student #:
-0964514
+
 
 Description:
 The following is a library that implements the RFC 6350 vCard standard. This library makes use of
